@@ -1,4 +1,4 @@
-<img style={margin-align:center;}  alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16762086-Programmer-character-animation&psig=AOvVaw0IEBpfz8MZi2vvW5Irafxt&ust=1701630797541000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCP7-u68YIDFQAAAAAdAAAAABAJ">
+<img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h1 align="center">Hi 👋, I'm MD. Ariful Islam</h1>
 <h3 align="center">A passionate problem solver</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arifakash16" alt="arifakash16" /></a> </p>
