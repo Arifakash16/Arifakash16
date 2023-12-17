@@ -1,3 +1,4 @@
+<inmg align="center" src="https://github.com/Arifakash16/Arifakash16/blob/main/Github.png">
 <img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h1 align="center">Hi 👋, I'm MD. Ariful Islam</h1>
 <h3 align="center">Welcome to my profile <br> <br> Problem solver | HTML | CSS | Bootstrap | JavaScript | C | C++| Java | DSA | MySQL</h3>
